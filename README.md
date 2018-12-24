@@ -104,7 +104,6 @@ Tương tự cài đặt django. Mở terminal và gõ:
 - Vào file settings.py của project doan2 vừa tạo ở trên và thay đổi các thông số trong DATABASE.
     ![](django-mysql.PNG)
     
-    
     Trong đó user và password là user và password lúc cài đặt MySQL.
 - Vào file __init__.py của project và gõ:
 
@@ -122,23 +121,29 @@ Tương tự cài đặt django. Mở terminal và gõ:
 - Mở trình duyệt và gõ địa chỉ: [localhost:8000/nhaphanphoi]()
 
 Giao diện của hệ thống hiện ra (đây là giao diện của nhà phân phối).
-![](file:///C:\Users\Admin\Pictures\giaodienchung.PNG)
+
+![](giaodienchung.PNG)
 **1. Hệ thống sản phẩm**
-![](file:///C:\Users\Admin\Pictures\hethongsanpham.PNG)
+
+![](hethongsanpham.PNG)
 Ở đây thực hiện các chức năng: Tạo mới sản phẩm cho nhà phân phối, hiển thị danh sách các sản phẩm, nhóm sản phẩm, tạo mới nhóm sản phẩm, cập nhật thông tin của sản phẩm và nhóm sản phẩm, tìm kiếm thông tin sản phẩm.
 
 **1.1. Tạo mới sản phẩm**
-![](file:///C:\Users\Admin\Pictures\taomoisanpham.PNG)
+
+![](taomoisanpham.PNG)
 Ở đây chúng ta điền đầy đủ thông tin của form **Tạo mới sản phẩm** và click **"Tạo mới"**.
 
 **1.2. Danh sách sản phẩm**
-![](file:///C:\Users\Admin\Pictures\danhsachsanpham.PNG)
+
+![](danhsachsanpham.PNG)
+
 - Cập nhật thông tin sản phẩm
-![](file:///C:\Users\Admin\Pictures\capnhatthongtinsanpham.PNG)
+ 
+    ![](capnhatthongtinsanpham.PNG)
 Ở đây chúng ta có thể thay đổi 1 số thông tin của sản phẩm và click **"Cập nhật"** để cập nhật lại thông tin của sản phẩm.
 - Tìm kiếm sản phẩm theo tên và nhóm hàng hóa
 Nhập tên hàng hóa và nhóm sản phẩm, sau đó click **"Tìm kiếm"**.
-![](file:///C:\Users\Admin\Pictures\timkiemtheoten.PNG)
+![](timkiemtheoten.PNG)
 - Tìm kiếm sản phẩm theo mã
 Nhập mã sản phẩm sau đó click **"Tìm kiếm"**.
 ![](file:///C:\Users\Admin\Pictures\timkiemtheoma.PNG)
