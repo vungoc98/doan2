@@ -122,15 +122,15 @@ Tương tự cài đặt django. Mở terminal và gõ:
 
 Giao diện của hệ thống hiện ra (đây là giao diện của nhà phân phối).
 
-![](giaodienchung.PNG)
+![](images/giaodienchung.PNG)
 **1. Hệ thống sản phẩm**
 
-![](hethongsanpham.PNG)
+![](images/hethongsanpham.PNG)
 Ở đây thực hiện các chức năng: Tạo mới sản phẩm cho nhà phân phối, hiển thị danh sách các sản phẩm, nhóm sản phẩm, tạo mới nhóm sản phẩm, cập nhật thông tin của sản phẩm và nhóm sản phẩm, tìm kiếm thông tin sản phẩm.
 
 **1.1. Tạo mới sản phẩm**
 
-![](.git/taomoisanpham.PNG)
+![](images/taomoisanpham.PNG)
 Ở đây chúng ta điền đầy đủ thông tin của form **Tạo mới sản phẩm** và click **"Tạo mới"**.
 
 **1.2. Danh sách sản phẩm**
