@@ -187,6 +187,7 @@ Click **"Xem chi tiết"** sau đó vào giao diện click **"Thông tin cơ b�
         Ở đây chúng ta có thể tìm kiếm các mặt hàng thông qua tên hàng hóa và mã hàng hóa hoặc thực hiện chức năng **"Chuyển kho"**.
     - Click **"Chuyển kho"** để sang giao diện **Lưu chuyển hàng hóa**.
         ![](images/luuchuyenhanghoa.PNG)
+        
         ![](images/luuchuyenhanghoa1.PNG)
     
 - Lịch sử kho hàng
