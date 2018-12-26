@@ -130,7 +130,7 @@ Giao diện của hệ thống hiện ra (đây là giao diện của nhà phân
 
 **1.1. Tạo mới sản phẩm**
 
-![](taomoisanpham.PNG)
+![](.git/taomoisanpham.PNG)
 Ở đây chúng ta điền đầy đủ thông tin của form **Tạo mới sản phẩm** và click **"Tạo mới"**.
 
 **1.2. Danh sách sản phẩm**
