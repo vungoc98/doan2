@@ -122,7 +122,7 @@ Tương tự cài đặt django. Mở terminal và gõ:
 
 Giao diện của hệ thống hiện ra (đây là giao diện của nhà phân phối).
 
-![](images/giaodienchung.PNG)
+![](https://drive.google.com/open?id=1pg1i29ow4paki_ZJs1HerMu-4qovoKTt)
 **1. Hệ thống sản phẩm**
 
 ![](images/hethongsanpham.PNG)
