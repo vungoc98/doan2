@@ -102,7 +102,7 @@ Tương tự cài đặt django. Mở terminal và gõ:
 
 ## **4. Kết nối django với MySQL**
 - Vào file settings.py của project doan2 vừa tạo ở trên và thay đổi các thông số trong DATABASE.
-    ![](https://drive.google.com/open?id=1pg1i29ow4paki_ZJs1HerMu-4qovoKTt)
+    ![](images/django-mysql.PNG)
     
     Trong đó user và password là user và password lúc cài đặt MySQL.
 - Vào file __init__.py của project và gõ:
@@ -122,7 +122,7 @@ Tương tự cài đặt django. Mở terminal và gõ:
 
 Giao diện của hệ thống hiện ra (đây là giao diện của nhà phân phối).
 
-![](https://drive.google.com/open?id=1pg1i29ow4paki_ZJs1HerMu-4qovoKTt)
+![](images/giaodienchung.PNG)
 **1. Hệ thống sản phẩm**
 
 ![](images/hethongsanpham.PNG)
