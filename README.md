@@ -135,54 +135,54 @@ Giao diện của hệ thống hiện ra (đây là giao diện của nhà phân
 
 **1.2. Danh sách sản phẩm**
 
-![](danhsachsanpham.PNG)
+![](images/danhsachsanpham.PNG)
 
 - Cập nhật thông tin sản phẩm
  
-    ![](capnhatthongtinsanpham.PNG)
+    ![](images/capnhatthongtinsanpham.PNG)
 Ở đây chúng ta có thể thay đổi 1 số thông tin của sản phẩm và click **"Cập nhật"** để cập nhật lại thông tin của sản phẩm.
 - Tìm kiếm sản phẩm theo tên và nhóm hàng hóa
 Nhập tên hàng hóa và nhóm sản phẩm, sau đó click **"Tìm kiếm"**.
-![](timkiemtheoten.PNG)
+![](images/timkiemtheoten.PNG)
 - Tìm kiếm sản phẩm theo mã
 Nhập mã sản phẩm sau đó click **"Tìm kiếm"**.
-![](file:///C:\Users\Admin\Pictures\timkiemtheoma.PNG)
+![](images/timkiemtheoma.PNG)
 **1.3. Hệ thống nhóm sản phẩm**
-![](file:///C:\Users\Admin\Pictures\hethongnhomsanpham.PNG)
+![](images/hethongnhomsanpham.PNG)
 Ở đây chúng ta có thể thực hiện chức năng tạo mới nhóm sản phẩm và cập nhật thông tin của nhóm sản phẩm.
 - Tạo mới nhóm sản phẩm
-![](file:///C:\Users\Admin\Pictures\taomoinhomhanghoa.PNG)
+![](images/taomoinhomhanghoa.PNG)
 Điền đầy đủ thông tin của nhóm sản phẩm cần tạo vào form, sau đó click **"Tạo mới"**.
 
-    ![](file:///C:\Users\Admin\Pictures\ketquataomoi.PNG)
+    ![](images/ketquataomoi.PNG)
 
 - Cập nhật thông tin của nhóm sản phẩm
 Chọn nhóm sản phẩm muốn cập nhật thông tin sau đó click **"Cập nhật"**. Giao diện cập nhật thông tin nhóm sản phẩm hiện ra, người quản trị có thể thay đổi 1 số thông tin của nhóm sản phẩm, sau đó click **"Lưu"** để lưu thông tin mới của nhóm sản phẩm.
-![](file:///C:\Users\Admin\Pictures\capnhatthongtinnhomsanpham.PNG)
+![](images/capnhatthongtinnhomsanpham.PNG)
 
     **2. Hệ thống kho hàng**
-![](file:///C:\Users\Admin\Pictures\hethongkhohang.PNG)
+![](images/hethongkhohang.PNG)
 Ở đây thực hiện các chức năng: Tạo mới kho hàng, xem danh sách kho hàng, xem chi tiết kho hàng (bao gồm: Thông tin cơ bản, tình trạng kho hàng, lịch sử kho hàng).
 
 **2.1. Tạo mới kho hàng**
-![](file:///C:\Users\Admin\Pictures\taomoikhohang.PNG)
+![](images/taomoikhohang.PNG)
 Điền thông tin đầy đủ vào form tạo mới kho hàng và click **"Tạo mới"**
 **2.2. Danh sách kho hàng**
-![](file:///C:\Users\Admin\Pictures\danhsachkhohang.PNG)
+![](images/danhsachkhohang.PNG)
 Ở đây chúng ta có thể tìm kiếm thông tin của kho hàng theo tên kho hàng hoặc mã kho hàng.
 Tìm kiếm kho hàng theo tên kho hàng:
-![](file:///C:\Users\Admin\Pictures\timkiemkhohangtheoten.PNG)
+![](images/timkiemkhohangtheoten.PNG)
 Tìm kiếm kho hàng theo mã kho hàng:
-![](file:///C:\Users\Admin\Pictures\timkiemkhohangtheoma.PNG)
+![](images/timkiemkhohangtheoma.PNG)
 
 - Thông tin cơ bản của kho hàng
 Click **"Xem chi tiết"** sau đó vào giao diện click **"Thông tin cơ bản"**
-![](file:///C:\Users\Admin\Pictures\thongtincoban.PNG)
+![](images/thongtincoban.PNG)
 Ở đây chúng ta có thể thay đổi thông tin về địa chỉ, số điện thoại của kho hàng và click **"Cập nhật"**.
 - Tình trạng kho hàng
 
     - Click **"Tình trạng kho hàng"** để xem thông tin chi tiết các mặt hàng có trong kho và có thể thực hiện chức năng **"Chuyển kho"**.
-![](file:///C:\Users\Admin\Pictures\tinhtrangkhohang.PNG)
+![](images/tinhtrangkhohang.PNG)
 
         Ở đây chúng ta có thể tìm kiếm các mặt hàng thông qua tên hàng hóa và mã hàng hóa hoặc thực hiện chức năng **"Chuyển kho"**.
     - Click **"Chuyển kho"** để sang giao diện **Lưu chuyển hàng hóa**.
@@ -192,8 +192,8 @@ Click **"Xem chi tiết"** sau đó vào giao diện click **"Thông tin cơ b�
 - Lịch sử kho hàng
 
     Click **"Lịch sử kho hàng"** để xem thông tin về lịch sử chuyển kho của kho hàng.
-![](file:///C:\Users\Admin\Pictures\lichsukhohang.PNG)
-Ở đây chúng ta cũng có thể tìm kiếm thông tin các mặt hàng thông qua tên hàng hóa hoặc mã hàng hóa.
+![](images/lichsukhohang.PNG)
+Ở đây chúng ta cũng có thể tìm kiếm thông tin các mặt hàng thông qua tên hàng hóa, mã hàng hóa bằng cách nhập thông tin cần tìm kiếm vào các thanh tìm kiếm và nhấn **"Tìm kiếm"**.
 
 
 
